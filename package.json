@@ -1,0 +1,21 @@
+{
+  "name": "ark-the-island",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "algoliasearch": "4.2.0",
+    "instantsearch.js": "4.5.0",
+    "jquery": "3.5.1",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
